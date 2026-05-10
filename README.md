@@ -38,3 +38,4 @@ docker build -t devops-final-app .
 
 docker run -p 5000:5000 devops-final-app
 
+This project uses Docker for containerization.
